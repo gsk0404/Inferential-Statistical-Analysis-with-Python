@@ -1,0 +1,33 @@
+TO: Head Trainer, U.S. Bicycle Team
+
+FROM: <nameof urs >
+
+DATE: Sept 30, 2025
+
+SUBJECT: Effects of Chocolate Consumption on Cycling Performance
+
+Introduction
+
+I'm writing to help you understand the results from that cycling and chocolate study you asked me to review. The research looked at how eating different types of chocolate affects how far our cyclists can go during a two-minute all-out sprint. Nine male athletes participated in this study, and researchers measured their performance before and after eating either dark chocolate or white chocolate for two weeks each.
+
+White Chocolate Results
+
+When the athletes ate white chocolate, their average distance improved from 1,367 meters (baseline) to 1,419 meters. That's an increase of 52 meters, which might seem promising at first glance. However, here's the important part - this improvement wasn't statistically significant, with a p-value of 0.319.
+
+What this means in simple terms is that we can't be confident this 52-meter improvement was actually caused by the white chocolate. It could just be normal variation in performance that happens from day to day. Since the p-value is much higher than 0.05 (the standard cut-off scientists use), we have to conclude that white chocolate doesn't reliably improve sprint performance.
+
+Dark Chocolate Results
+
+The dark chocolate results tell a completely different story. Athletes who consumed dark chocolate covered an average of 1,606 meters during their sprints - that's a huge jump of 239 meters compared to baseline! Even more impressive, this improvement has a p-value of 0.001, which means we can be extremely confident that dark chocolate actually causes better performance.
+
+To put this in perspective, 239 meters is a substantial distance in competitive cycling. The confidence interval shows that we can expect anywhere from 165 to 313 meters of improvement on average, which represents a meaningful competitive advantage.
+
+My Recommendation
+
+Based on these findings, I strongly recommend adding dark chocolate to our athletes' nutrition program. The evidence clearly shows that dark chocolate provides real, measurable performance benefits. The study used 40 grams of dark chocolate daily (specifically Dove brand), so that would be a good starting point.
+
+I do not recommend white chocolate, as the data shows no reliable performance benefit. The comparison between dark and white chocolate (with a confidence interval of 82 to 291 meters favouring dark chocolate) confirms that dark chocolate is significantly superior.
+
+Conclusion
+
+The science is clear - dark chocolate can give our team a legitimate competitive edge during sprint efforts. This could be particularly valuable during the intense sprint stages of the Tour de France. I suggest we start incorporating this into training nutrition plans and monitor individual athlete responses.
